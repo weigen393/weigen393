@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:computer: I'm Peter, a Back-End developer.
+
+:smile_cat: This is my latest project [DataCat](https://github.com/weigen393/DataCat).
+
+:office: Currently working on AppWorks School.
+
 <!--
 **weigen393/weigen393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
